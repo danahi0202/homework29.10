@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CrudApp/CrudApp.csproj" />
+  <Project Path="DatabaseLibrary/DatabaseLibrary.csproj" />
+</Solution>
